@@ -1,4 +1,4 @@
-# Code Hedgehog by [Clay Bowser](https://github.com/claybowser)
+# code-hedgehog by [Clay Bowser](https://github.com/claybowser)
 
 ![code-hedgehog hedgehog cartoon icon](code-hedgehog-icon.png "code-hedgehog hedgehog cartoon icon")
 
