@@ -2,6 +2,9 @@
 
 Code Hedgehog is a VS Code extension that provides AI-powered code suggestions using Ollama and the CodeGemma model.
 
+## Example Usage in VS Code:
+![2024-12-04 Screenshot of code-hedgehog's code suggestion feature.](code-hedgehog-example.PNG "2024-12-04 Screenshot of code-hedgehog's code suggestion feature.")
+
 ## Prerequisites
 
 Before using this extension, you need to:
